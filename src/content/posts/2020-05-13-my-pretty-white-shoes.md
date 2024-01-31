@@ -1,10 +1,9 @@
 ---
 template: blog-post
-title: Extreme gaming extravaganza
-slug: /gaming-extravaganza
-date: 2020-05-13 12:55
-description: How we scaled an Extreme gaming extravaganza
-featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
+title: " Therapeutic Nutrition"
+slug: / therapeutic-nutrition
+date: 2024-01-31 12:55
+description: consultation for  therapeutic nutrition
+featuredImage: /assets/therapeutic-nutrition.webp
 ---
-
-My Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White Shoes
+We provide customized therapeutic nutrition plans to address specific health concerns and conditions, helping you achieve optimal health and wellness through the power of food.
