@@ -2,7 +2,7 @@
 template: blog-post
 title: PCOD Management
 slug: /PCOD-Management
-date: 2020-05-13 12:47
+date: 2024-01-31 18:39
 description: PCOD Management
 featuredImage: /assets/pcod.webp
 ---
