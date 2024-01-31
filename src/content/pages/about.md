@@ -11,7 +11,7 @@ Let’s talk
 
 dtpoojaduggal@outlook.com
 
-![Dietician]( "Dietician Team")
+![Dietician](/assets/bench-accounting-nvzvopqw0gc-unsplash.jpg "Dietician Team")
 
 ###### Team story
 
