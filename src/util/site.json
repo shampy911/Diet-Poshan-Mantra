@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Dt. Pooja Duggal",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Transforming Lives Through Nutrition",
+    "siteUrl": "https://www.instagram.com/poshan_mantra/?igsh=MWU4bmRsYzljdzBmaA%3D%3D",
+    "image": "/assets/poshan-mantra.png",
+    "iconimage": "/assets/poshan_mantra_logo.png",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
