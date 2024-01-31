@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Poshan Mantra
 tagline: Transforming Lives Through Nutrition
-featuredImage: /assets/poshanmantra.webp
+featuredImage: /assets/poshan-mantra-main.png
 cta:
   ctaText: Know more
   ctaLink: /about
