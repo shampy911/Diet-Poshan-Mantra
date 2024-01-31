@@ -2,7 +2,7 @@
 template: blog-post
 title: " Weight Control"
 slug: /weight-control
-date: 2024-01-31 18:39
+date: 2024-01-31 18:40
 description: |
   Weight Control or weight loss 
 featuredImage: /assets/weight-loss.webp
