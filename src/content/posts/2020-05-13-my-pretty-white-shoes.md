@@ -2,7 +2,7 @@
 template: blog-post
 title: " Therapeutic Nutrition"
 slug: / therapeutic-nutrition
-date: 2024-01-31 12:55
+date: 2024-01-31 18:40
 description: consultation for  therapeutic nutrition
 featuredImage: /assets/therapeutic-nutrition.webp
 ---
