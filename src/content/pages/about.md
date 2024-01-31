@@ -11,7 +11,7 @@ Let’s talk
 
 dtpoojaduggal@outlook.com
 
-![Dietician](/assets/dietitian.webp "Dietician Team")
+![Dietician]( "Dietician Team")
 
 ###### Team story
 
